@@ -141,11 +141,11 @@ if (!isset($_SESSION['user'])) {
                 <div class="myDiv">
                     <b>Parth Mori </b><br>
                     email id : 21bce157@nirmauni.ac.in<br>
-                    mobile no : +91 7567572785<br>
+                    mobile no : +91 0000000000<br>
 
                     <b> Kartik Kalani </b> <br>
                     email id: 21bce105@nirmauni.ac.in<br>
-                    mobile no: +91 7359020990<br>
+                    mobile no: +91 0000000000<br>
                 </div>
 
             </td>
